@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+sqlalchemy
+psycopg2-binary   # PostgreSQL driver (optional, only needed for the SQL-loading cells)
+pymysql           # MySQL driver (optional)
+pyodbc            # SQL Server driver (optional)
